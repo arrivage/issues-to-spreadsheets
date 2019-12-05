@@ -1,6 +1,6 @@
 # issues-to-spreadsheets
 
-Extract github issues into Google Spreadsheets // use labels to class them
+Extract github issues into Google Spreadsheets and use Labels to extract datas
 
 
 You will need : 
