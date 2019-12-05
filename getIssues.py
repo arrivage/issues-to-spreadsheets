@@ -13,7 +13,7 @@ issues = repo.get_issues(state='open')
 issuesClosed = repo.get_issues(state='closed')
 
 # The headers of your spreadsheet
-matrix_issues = [['number', 'title', 'state', 'opened on', 'closed on', 'feature','min','max']]
+matrix_issues = [['#', 'Title', 'State', 'Opened on', 'Closed on', 'Feature','Min','Max']]
 
 
 def get_labels(label):
