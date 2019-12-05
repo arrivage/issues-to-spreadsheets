@@ -30,11 +30,10 @@ If your project is not verified you may have to bypass the autorisation the firs
 
 
 
+# Customizing your datas
 
+To know what aspect of the application is explored in an issue, we have choosen to use specific labels, in order to know wich models's aspects ar featured in the issue or the time required to finish it.
 
-#Customizing your datas
-
-To know what aspect of the application is explored in an issue:
 
 Create labels starting with "Feat:", for exemple "Feat:User"
 To estimate the length of an issue:
@@ -42,9 +41,8 @@ To estimate the length of an issue:
 Create labels starting with "Est:", for exemple "Est:1-3 days"
 
 
-You can create as many labels and columns as you'd like.
+You can create as many labels and columns as you'd like, in order to cover your specic usage.
 
-Thank you for using this script!
 
 
 
