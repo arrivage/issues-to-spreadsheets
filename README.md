@@ -3,11 +3,18 @@ Extract github issues into Google Spreadsheets // use labels to class them
 
 To use this script you must :
 
-rewrite git_secret with your own git credentials
+- rewrite git_secret with your own git credentials
+
+
+# Enabling Google API
 
 Enable Google SpreadSheet api ( an error link will appear, you'll just need to click on it to go to the right page)
 
-If your project is not verified you may have to bypass the
+- Download Api Key as client_secret
+
+If your project is not verified you may have to bypass the autorisation
+
+
 
 ##########
 
