@@ -32,7 +32,7 @@ If your project is not verified you may have to bypass the autorisation the firs
 
 
 
-##########
+#Customizing your datas
 
 To know what aspect of the application is explored in an issue:
 
@@ -41,7 +41,6 @@ To estimate the length of an issue:
 
 Create labels starting with "Est:", for exemple "Est:1-3 days"
 
-##########
 
 You can create as many labels and columns as you'd like.
 
